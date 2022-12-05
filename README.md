@@ -1,5 +1,8 @@
 # Kudomiibo
 
+
+![Logo](https://media.discordapp.net/attachments/534841376609665054/1049444107409436762/kudomiibobanner.PNG)
+
 All Amiibos, organized by franchises, games, and more. For educational purposes only. Just that easy.
 
 
