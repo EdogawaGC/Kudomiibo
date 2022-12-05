@@ -1,0 +1,95 @@
+body{
+  background: rgb(13,34,65);
+  background: linear-gradient(90deg, rgba(13,34,65,1) 0%, rgba(15,27,53,1) 35%, rgba(28,49,81,1) 100%);
+  font-family: Courier;
+  font-size: 1.2em;
+}
+
+p{
+  color: #ffffff
+}
+
+h1{
+  color: #ffffff
+}
+
+h2{
+  color: ##ffffff
+}
+
+h3{
+  color: #ffffff
+}
+
+  u{
+    color: #ffffff
+  }
+
+  a{
+    color: #ffffff
+  }
+
+.index_img_logo_div{
+  text-align: center;
+  padding-top: 5px
+}
+
+  .boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 65px
+  }
+
+  .box{
+    padding: 0px 150px 0px;
+  }
+
+  .casedlindex{
+    border: solid white 2px;
+    transition: transform .1s;
+    padding: 15px
+  }
+
+  .casedlindex:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+  }
+
+  .box_amiibo{
+    padding: 0px 100px 0px;
+  }
+
+  .box_amiibo_less_padding{
+    padding: 0px 80px 0px;
+  }
+
+  .apercu{
+    border: solid white 2px;
+    transition: transform .1s;
+  }
+
+  .box_subtitle{
+    text-align: center;
+  }
+
+  .logo_subtitle{
+    text-align: center;
+    padding-top: 10px;
+  }
+
+  .apercu:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+  }
+
+  .logo_subtitle_download{
+    text-align: center;
+    font-size: 0.9em
+  }
+
+  .vide{
+    padding-top: 75px
+  }
