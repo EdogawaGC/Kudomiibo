@@ -8,6 +8,8 @@ The aesthetics of the website is deliberately very refined and simple so if you 
 
 Yes I know that images are taking forever to load and I can't do anything about it.
 
+https://edogawagc.github.io/Kudomiibo/
+
 ![Logo](https://media.discordapp.net/attachments/534841376609665054/1049444107409436762/kudomiibobanner.PNG)
 
 
