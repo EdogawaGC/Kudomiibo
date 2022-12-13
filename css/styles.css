@@ -38,17 +38,17 @@ h3{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 65px
+    padding-top: 2.5em
   }
 
   .box{
-    padding: 0px 150px 0px;
+    padding: 0px 7.8em 0px;
   }
 
   .casedlindex{
     border: solid white 2px;
     transition: transform .1s;
-    padding: 15px
+    padding: 1em
   }
 
   .casedlindex:hover{
